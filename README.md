@@ -1,4 +1,4 @@
-# WEB DRISTI - Anti Manipulation Web Extension Documentation
+# WEBDRISTI - Anti Manipulation Web Extension Documentation
 
 ## Overview
 
