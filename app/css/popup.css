@@ -96,3 +96,11 @@ a:link, a:visited, a:hover, a:active {
 /* .modal-footer a {
     color: #D8D8D8;
 } */
+
+.modal-footer {
+    width: 100%;
+}
+
+.modal-footer button {
+    width: 100%;
+}
